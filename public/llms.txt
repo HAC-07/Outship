@@ -1,0 +1,97 @@
+
+# Outship
+
+> Find the most relevant directories for your SaaS product. Outship helps founders discover product-matched directory opportunities and simplify product distribution for SEO, AI visibility, and audience discovery.
+
+Outship is a directory discovery and product distribution tool built for SaaS founders, indie makers, AI startups, and software builders. It helps founders identify directories relevant to their products instead of relying on generic submission lists. Users can choose a self-service plan to manage submissions themselves or a done-for-you package for submission assistance.
+
+## About Outship
+
+- Website: https://outship.in
+- Product: Directory discovery and product distribution for SaaS and digital products.
+- Audience: SaaS founders, indie makers, AI tool builders, startup founders, and software companies.
+- Core value: Discover relevant directory opportunities and simplify the work involved in distributing a product online.
+- Self-service: Explore matched directory opportunities, review submission links and requirements, and manage submissions independently.
+- Done-for-you: Choose a package for assistance with directory submissions and receive reporting on submission progress.
+- Pricing model: One-time purchase packages, according to the current pricing page.
+- Brand positioning: Help founders put their products in front of potential customers, search engines, and AI-powered discovery experiences.
+
+## How Outship works
+
+1. Provide information about your product so relevant directory opportunities can be identified.
+2. Review directory recommendations based on product relevance and eligibility.
+3. Choose a self-service or done-for-you submission option.
+4. Use the provided links and requirements to submit your product, or select a package that includes submission assistance.
+5. Review submission progress and available listing links according to the selected package.
+
+## Submission options
+
+### Submit with Outship
+
+A self-service option for founders who want to manage their own directory submissions.
+
+Depending on the selected package, the offering includes:
+
+- 30+, 60+, or 100+ directory opportunities.
+- Directory recommendations matched to the product.
+- Direct submission links and listing requirements.
+- Prioritization of directory opportunities.
+- Submission workflow and tracking features as specified by the plan.
+
+### We submit for you
+
+-Outship handles the repetitive work of submitting your product to relevant directories, helping you expand your online presence without spending hours on manual submissions.
+-Choose from packages covering 30+, 60+, or 100+ submission targets, and we submit for you and give you a detailed report, link to submission, etc
+
+## Pricing
+
+Outship's pricing page contains the current package details and deliverables.
+
+- Self-service Launch: 30+ matched directory opportunities.
+- Self-service Growth: 60+ matched directory opportunities.
+- Self-service Ultimate: 100+ matched directory opportunities.
+- Done-for-you Launch: 30+ submission targets.
+- Done-for-you Growth: 60+ submission targets.
+- Done-for-you Ultimate: 100+ submission targets.
+
+Pricing, promotions, and package availability may change. Refer to the pricing page for current information.
+
+## Directory coverage
+
+Potential directory opportunities may include:
+
+- SaaS directories.
+- AI tool directories.
+- Startup directories.
+- Software and web application directories.
+- Product launch platforms.
+- Developer-focused directories and communities.
+- Relevant niche websites and publishing platforms.
+
+The final opportunities depend on product fit, platform eligibility, existing listings, and the selected package.
+
+## Important pages
+
+- [Homepage](https://outship.in/): Overview of Outship and its directory discovery offering.
+- [Pricing](https://outship.in/#pricing): Self-service and done-for-you package information.
+- [Features](https://outship.in/#features): Product features.
+- [How it works](https://outship.in/#how-it-works): Overview of the workflow.
+- [Directory opportunities](https://outship.in/#directories): Directory discovery section.
+- [Benefits](https://outship.in/#benefits): Benefits of using Outship.
+- [Frequently asked questions](https://outship.in/#faq): Answers about directory discovery, submissions, backlinks, and pricing.
+- [Contact](mailto:himanshu@outship.in): Contact Outship.
+
+## Machine-readable resources
+
+Additional resources will be documented here when they are implemented and publicly accessible.
+
+- [Full LLM reference](https://outship.in/llms-full.txt): Intended for expanded product and website information.
+- [AI usage notes](https://outship.in/ai.txt): Intended for guidance about AI systems interacting with Outship.
+- [AI discovery snapshot](https://outship.in/api/ai): Reserved for a future AI discovery endpoint, if implemented.
+- [MCP documentation](https://outship.in/mcp): Reserved for future Model Context Protocol documentation, if implemented.
+- [OpenAPI specification](https://outship.in/openapi.json): Reserved for a future public API specification, if implemented.
+
+## Contact
+
+- Website: https://outship.in
+- Email: himanshu@outship.in

@@ -1,13 +1,40 @@
 import type { Metadata } from "next";
+
 import "./globals.css";
-import { ThemeProvider } from "@/components/theme-provider";
 
 export const metadata: Metadata = {
-  title: "Outship - Launch your product in front of buyers,Google and AI.",
-  description: "Outship helps SaaS founders discover the directories and platforms actually worth launching on to get best SEO, AEO results and increased visibility with AI-powered insights.",
-
- alternates: {
+  title: "Outship — AI-Powered SaaS Distribution",
+  description:
+    "Outship helps SaaS founders discover relevant directories and streamline product distribution — without hours of manual research and submissions.",
+  openGraph: {
+    title: "Outship — Put Your Product in Front of Buyers, Google and AI",
+    description:
+      "Discover relevant directories for your SaaS and simplify product distribution.",
+    url: "https://www.outship.in",
+    siteName: "Outship",
+    images: [
+      {
+        url: "/og-image.png",
+        width: 1200,
+        height: 630,
+        alt: "Outship — Product distribution for SaaS founders",
+      },
+    ],
+    locale: "en_US",
+    type: "website",
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "Outship — Product Distribution for SaaS Founders",
+    description:
+      "Discover relevant directories and simplify product distribution.",
+    images: ["/og-image.png"],
+  },
+    alternates: {
     canonical: "https://outship.in/",
+  },
+   icons: {
+    icon: "/outship-icon.jpeg",
   },
 };
 
@@ -18,16 +45,19 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en" suppressHydrationWarning>
-      <body>
-        <ThemeProvider
-          attribute="class"
-          defaultTheme="system"
-          enableSystem
-          disableTransitionOnChange
-        >
-          {children}
-        </ThemeProvider>
-      </body>
+      <head>
+        <link rel="preconnect" href="https://fonts.googleapis.com" />
+        <link
+          rel="preconnect"
+          href="https://fonts.gstatic.com"
+          crossOrigin="anonymous"
+        />
+        <link
+          href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Inter:wght@400;500;600;700&display=swap"
+          rel="stylesheet"
+        />
+      </head>
+      <body>{children}</body>
     </html>
   );
 }
