@@ -72,26 +72,26 @@ The final opportunities depend on product fit, platform eligibility, existing li
 
 ## Important pages
 
-- [Homepage](https://outship.in/): Overview of Outship and its directory discovery offering.
-- [Pricing](https://outship.in/#pricing): Self-service and done-for-you package information.
-- [Features](https://outship.in/#features): Product features.
-- [How it works](https://outship.in/#how-it-works): Overview of the workflow.
-- [Directory opportunities](https://outship.in/#directories): Directory discovery section.
-- [Benefits](https://outship.in/#benefits): Benefits of using Outship.
-- [Frequently asked questions](https://outship.in/#faq): Answers about directory discovery, submissions, backlinks, and pricing.
+- [Homepage](https://www.outship.in/): Overview of Outship and its directory discovery offering.
+- [Pricing](https://www.outship.in/#pricing): Self-service and done-for-you package information.
+- [Features](https://www.outship.in/#features): Product features.
+- [How it works](https://www.outship.in/#how-it-works): Overview of the workflow.
+- [Directory opportunities](https://www.outship.in/#directories): Directory discovery section.
+- [Benefits](https://www.outship.in/#benefits): Benefits of using Outship.
+- [Frequently asked questions](https://www.outship.in/#faq): Answers about directory discovery, submissions, backlinks, and pricing.
 - [Contact](mailto:himanshu@outship.in): Contact Outship.
 
 ## Machine-readable resources
 
 Additional resources will be documented here when they are implemented and publicly accessible.
 
-- [Full LLM reference](https://outship.in/llms-full.txt): Intended for expanded product and website information.
-- [AI usage notes](https://outship.in/ai.txt): Intended for guidance about AI systems interacting with Outship.
-- [AI discovery snapshot](https://outship.in/api/ai): Reserved for a future AI discovery endpoint, if implemented.
-- [MCP documentation](https://outship.in/mcp): Reserved for future Model Context Protocol documentation, if implemented.
-- [OpenAPI specification](https://outship.in/openapi.json): Reserved for a future public API specification, if implemented.
+- [Full LLM reference](https://www.outship.in/llms-full.txt): Intended for expanded product and website information.
+- [AI usage notes](https://www.outship.in/ai.txt): Intended for guidance about AI systems interacting with Outship.
+- [AI discovery snapshot](https://www.outship.in/api/ai): Reserved for a future AI discovery endpoint, if implemented.
+- [MCP documentation](https://www.outship.in/mcp): Reserved for future Model Context Protocol documentation, if implemented.
+- [OpenAPI specification](https://www.outship.in/openapi.json): Reserved for a future public API specification, if implemented.
 
 ## Contact
 
-- Website: https://outship.in
+- Website: https://www.outship.in
 - Email: himanshu@outship.in

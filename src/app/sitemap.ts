@@ -3,7 +3,7 @@ import type { MetadataRoute } from "next";
 export default function sitemap(): MetadataRoute.Sitemap {
   return [
     {
-      url: "https://outship.in/",
+      url: "https://www.outship.in/",
       lastModified: new Date(),
       changeFrequency: "weekly",
       priority: 1,

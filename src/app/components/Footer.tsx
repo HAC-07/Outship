@@ -31,7 +31,7 @@ const companyLinks = [
 ];
 
 const outshipPrompt =
-  "Read https://outship.in/llms.txt and explain how Outship works, who it is for, and how it helps founders get their products discovered.";
+  "Read https://www.outship.in/llms.txt and explain how Outship works, who it is for, and how it helps founders get their products discovered.";
 
 const aiLinks = [
   {

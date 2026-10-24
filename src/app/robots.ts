@@ -6,7 +6,7 @@ export default function robots(): MetadataRoute.Robots {
       userAgent: "*",
       allow: "/",
     },
-    sitemap: "https://outship.in/sitemap.xml",
-    // Agent index: https://outship.in/llms.txt
+    sitemap: "https://www.outship.in/sitemap.xml",
+    // Agent index: https://www.outship.in/llms.txt
   };
 }
