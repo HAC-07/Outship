@@ -10,11 +10,11 @@ export const metadata: Metadata = {
     title: "Outship — Put Your Product in Front of Buyers, Google and AI",
     description:
       "Discover relevant directories for your SaaS and simplify product distribution.",
-    url: "https://www.outship.in",
+    url: "https://outship.in",
     siteName: "Outship",
     images: [
       {
-        url: "https://www.outship.in/og-image.png",
+        url: "https://outship.in/og-image.png",
         width: 1200,
         height: 630,
         alt: "Outship — Product distribution for SaaS founders",
@@ -28,7 +28,7 @@ export const metadata: Metadata = {
     title: "Outship — Put Your Product in Front of Buyers, Google and AI",
     description:
       "Discover relevant directories and simplify product distribution.",
-    images: ["https://www.outship.in/og-image.png"],
+    images: ["https://outship.in/og-image.png"],
   },
     alternates: {
     canonical: "https://outship.in/",
