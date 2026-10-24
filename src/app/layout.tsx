@@ -3,7 +3,7 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Outship — AI-Powered SaaS Distribution",
+  title: "Outship — Put Your Product in Front of Buyers, Google and AI",
   description:
     "Outship helps SaaS founders discover relevant directories and streamline product distribution — without hours of manual research and submissions.",
   openGraph: {
@@ -14,7 +14,7 @@ export const metadata: Metadata = {
     siteName: "Outship",
     images: [
       {
-        url: "/og-image.png",
+        url: "https://www.outship.in/og-image.png",
         width: 1200,
         height: 630,
         alt: "Outship — Product distribution for SaaS founders",
@@ -25,10 +25,10 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Outship — Product Distribution for SaaS Founders",
+    title: "Outship — Put Your Product in Front of Buyers, Google and AI",
     description:
       "Discover relevant directories and simplify product distribution.",
-    images: ["/og-image.png"],
+    images: ["https://www.outship.in/og-image.png"],
   },
     alternates: {
     canonical: "https://outship.in/",
