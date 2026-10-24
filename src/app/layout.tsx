@@ -11,7 +11,7 @@ export const metadata: Metadata = {
     title: "Outship — Put Your Product in Front of Buyers, Google and AI",
     description:
       "Discover relevant directories for your SaaS and simplify product distribution.",
-    url: "https://outship.in",
+    url: "https://www.outship.in",
     siteName: "Outship",
     images: [
       {

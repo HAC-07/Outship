@@ -12,7 +12,7 @@ import { Button } from "@/components/ui/button";
 
 const demoProduct = {
   name: "Outship",
-  url: "https://outship.in",
+  url: "https://www.outship.in",
   description:
     "Launch your SaaS across the web without manually filling dozens of submission forms.",
   category: "SaaS / Developer Tools",

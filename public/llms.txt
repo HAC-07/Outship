@@ -7,7 +7,7 @@ Outship is a directory discovery and product distribution tool built for SaaS fo
 
 ## About Outship
 
-- Website: https://outship.in
+- Website: https://www.outship.in
 - Product: Directory discovery and product distribution for SaaS and digital products.
 - Audience: SaaS founders, indie makers, AI tool builders, startup founders, and software companies.
 - Core value: Discover relevant directory opportunities and simplify the work involved in distributing a product online.
