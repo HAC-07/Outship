@@ -7,5 +7,6 @@ export default function robots(): MetadataRoute.Robots {
       allow: "/",
     },
     sitemap: "https://outship.in/sitemap.xml",
+    // Agent index: https://outship.in/llms.txt
   };
 }
